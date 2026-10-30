@@ -39,10 +39,10 @@ I enjoy working on backend development, database-driven systems, application arc
 - Git & GitHub
 - Docker
 - Apache Tomcat
-- Aiven
 
 **Deployment**
 - Render
+- Aiven
 - Railway
 - Netlify
 - Vercel
@@ -59,7 +59,7 @@ A full-stack movie ticket booking application with movie listings, show manageme
 
 - Developed REST APIs for movies, shows, bookings, and cancellations.
 - Designed a relational database with nine tables.
-- Implemented transactional booking logic and seat availability management.
+- Implemented transactional booking workflows to manage seat reservations and maintain database consistency.
 - Built an interactive frontend with seat selection and an admin panel.
 
 🔗 [GitHub Repository](https://github.com/AbhisekDash01/BMS) | [Live Demo](https://dreamy-gnome-0110e3.netlify.app)
@@ -71,7 +71,7 @@ A Java-based airport runway simulation demonstrating priority-based flight sched
 **Tech:** Java 21, Spring Boot, PriorityQueue, Multithreading, REST APIs
 
 - Implemented priority-based flight scheduling using Java PriorityQueue.
-- Developed separate flight generation and runway processing tasks.
+- Implemented independent flight generation and runway processing threads for concurrent simulation.
 - Exposed REST APIs to manage simulation operations and monitor flight status.
 - Built a dashboard to visualise simulation activity.
 
@@ -85,8 +85,6 @@ A team project developed for Smart India Hackathon 2026, focused on streamlining
 - Explored document-based clinical information extraction and verification workflows.
 - Contributed to the patient and doctor-facing application experience.
 
-**Achievement:** Qualified for the intra-college shortlisting round.
-
 🔗 [Live Prototype](https://1r4j21-1uqbm8rnn-arcadawebapps4.vercel.app)
 
 *Note: Team project; source repository is private.*
@@ -97,7 +95,7 @@ A team project developed for Smart India Hackathon 2026, focused on streamlining
 
 - Qualified for the intra-college shortlisting  round of Smart India Hackathon 2026.
 - Winner – BTB Tech Quiz.
-- Top 10 – UGT Engineering Round.
+- Top 10 – UGT Engineering Round Exam(2025).
 - Powerlifting Champion – GITA Intra-College.
 - Overall Runner-Up – Ashwamedha '26, IIT Bhubaneswar Inter-College Annual Sports Fest.
 
